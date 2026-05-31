@@ -1,0 +1,5 @@
+pandas
+torch
+tqdm
+transformers
+sentence-transformers
