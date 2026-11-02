@@ -125,10 +125,16 @@ summary.json
 If you use this dataset or code, please cite the accompanying paper:
 
 ```bibtex
-@inproceedings{balmus2026crosslingualwsd,
+@article{balmus2026crosslingualwsd,
   title = {Cross-Lingual Word Sense Disambiguation Remains Challenging for Large Language Models},
-  author = {Balmus, Sebastian and Dura, Bogdan and Uban, Ana-Sabina and Nisioi, Sergiu},
-  booktitle = {Proceedings of the 30th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2026)},
-  year = {2026}
+  journal = {Procedia Computer Science},
+  volume = {292},
+  pages = {2487-2496},
+  year = {2026},
+  note = {30th International Conference on Knowledge Based and Intelligent Information and Engineering Systems},
+  issn = {1877-0509},
+  doi = {https://doi.org/10.1016/j.procs.2026.09.325},
+  url = {https://www.sciencedirect.com/science/article/pii/S1877050926034782},
+  author = {Sebastian Balmuş and Bogdan Dura and Ana-Sabina Uban and Sergiu Nisioi}
 }
 ```
